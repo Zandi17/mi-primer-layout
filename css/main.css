@@ -1,0 +1,113 @@
+.contenedor {
+	width: 700px;
+	margin: 0 auto;
+	margin-top:40px; 
+	margin-bottom: 60px;
+}
+.logo {
+	padding: -5px;
+	margin-bottom: 40px;
+}
+.grupal{
+	height: 500px;
+	width: 700px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.linea {
+	border: 1px solid black;
+	width: 20px;
+}
+.overlay{	
+	margin:5px;
+}
+.content  {
+	position: relative;
+	display: inline-block;
+}
+.content img{
+	-webkit-filter:brightness(40%);
+	filter: brightness(60%);
+}
+.content p {
+	position: absolute;
+	bottom: 5px;
+	right: 0px;
+	color: white;
+}
+.parrafo {
+	text-align: center;
+	font-size: 25px;
+}
+li {
+	list-style: none;
+	float: left;
+	padding-left: 30px;
+	padding-right: 20px;
+	font-size: 22px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.border-right-gray {
+	border-right: 1px solid gray;
+}
+.retrato {
+	border-radius: 50%;
+	margin: 0px auto;
+	padding:20px;
+}
+.marco {
+	width: 62%;
+    border: 1px solid black;
+    padding: 0px 33px;
+    margin: 0 218px;
+}
+}
+.fila	{
+	font-size: 20px;
+	color: white;
+	text-align: left;
+	padding: 15px
+}
+.filauno, .filados, .filatres{
+	color: white;
+    background-color: gray;
+    margin-left: 17px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.filauno{
+	width: 350px;
+	height: 50px;	
+}
+.filados{
+	width: 250px;
+	height: 50px;
+}
+.filatres{
+	width: 120px;
+	height: 50px;
+}
+.box {
+	height: 300px;
+	margin-top: 10px;
+	padding-left: 50px;
+	display: inline-block;
+}
+.caja {
+	width: 200px;
+	display: inline-block;
+	padding-left: 15px;
+}
+.imagen {
+	max-width: 100%;
+}
+.perfil {
+	text-align: center;
+	padding: 20px;
+}
+.resumen {
+	padding: 30px;
+	font-size: 25px;
+}
